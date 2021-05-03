@@ -1,0 +1,26 @@
+body {
+	user-select: none;
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+}
+.parent-reply-voice {
+	width: 100%;
+}
+.parent-btn {
+	padding: 2vw;
+	width: 100%;
+}
+.btn-reply {
+	font-size: 6vw;
+	width: 40vw;
+	height: 40vw;
+	margin: 4vw;
+}
+.btn-reply:active {
+	transform: scale(0.8);
+	-webkit-transform: scale(0.8);
+}
+.txt-copyright {
+	font-size: 2vw;
+	margin-left: 2vw;
+}
